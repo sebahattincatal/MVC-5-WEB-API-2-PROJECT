@@ -1,0 +1,15 @@
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Project.Test.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Project.Test.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\obj\Debug\Project.Test.csprojResolveAssemblyReference.cache
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\obj\Debug\Project.Test.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Test\obj\Debug\Project.Test.pdb
