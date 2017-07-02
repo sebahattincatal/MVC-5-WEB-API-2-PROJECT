@@ -1,0 +1,4 @@
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Domain\bin\Debug\Project.Domain.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Domain\bin\Debug\Project.Domain.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Domain\obj\Debug\Project.Domain.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Project\Project.Domain\obj\Debug\Project.Domain.pdb
